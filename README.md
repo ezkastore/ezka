@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="Xw1AWI45eRsI_uqQxj4UeYsNaKsTUZX9qAzLNv-hIkM" />
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ezkastore/ezka/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
