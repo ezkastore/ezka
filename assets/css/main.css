@@ -223,9 +223,10 @@
 		}
 
 	h1 {
-		font-size: 1.85em;
+		font-size: 2em;
 		letter-spacing: 0.22em;
 		margin: 0 0 0.525em 0;
+		font-weight: 900!important;
 	}
 
 	h2 {
@@ -934,6 +935,7 @@
 				display: block;
 				margin: 0 auto;
 				border-radius: 100%;
+				width: 50%;
 				box-shadow: 0 0 0 1.5em #ffffff;
 			}
 
